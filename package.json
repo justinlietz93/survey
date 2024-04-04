@@ -1,0 +1,19 @@
+{
+  "name": "survey",
+  "version": "1.0.0",
+  "description": "A random survey app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Survey",
+    "School",
+    "Javascript"
+  ],
+  "author": "Justin Lietz",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.4.1"
+  }
+}
